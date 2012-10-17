@@ -1,0 +1,20 @@
+{
+  "name": "node-chat",
+  "version": "0.0.1",
+  "description": "Minimalist multi-room chat server",
+  "dependencies": {
+    "socket.io": "~0.9.6",
+    "mime": "~1.2.7"
+  },
+  "subdomain": "bennyjo.node-chat",
+  "scripts": {
+    "start": "node ./bin/http-server.js",
+  },
+  "engines": {
+    "node": "0.8.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bennyjo/node-chat"
+  }
+}

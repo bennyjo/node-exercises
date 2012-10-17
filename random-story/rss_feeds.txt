@@ -1,0 +1,4 @@
+http://www.sistaminutentips.se/feed/
+http://www.aftonbladet.se/rss.xml
+http://www.svd.se/kultur/?service=rss
+http://www.svd.se/?service=rss
